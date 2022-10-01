@@ -1,5 +1,7 @@
 # Cómo añadir DRAG and DROP en React usando react-beautiful-dnd | Tutorial
 
+## Ver código migrado hacia React 18: [react-18-upgrade](https://github.com/ymulenll/react-beautiful-dnd-demo/tree/react-18-upgrade)
+
 [![Cómo añadir DRAG and DROP en React usando react-beautiful-dnd | Tutorial](https://img.youtube.com/vi/bZsMWorjtFI/0.jpg)](https://www.youtube.com/watch?v=bZsMWorjtFI "Cómo añadir DRAG and DROP en React usando react-beautiful-dnd | Tutorial")
 
 <hr>
