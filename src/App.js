@@ -1,7 +1,7 @@
 import { useState } from "react";
 import "./App.css";
 
-import { DragDropContext, Droppable, Draggable } from "react-beautiful-dnd";
+import { DragDropContext, Droppable, Draggable } from "@hello-pangea/dnd";
 
 const initialTasks = [
   {
